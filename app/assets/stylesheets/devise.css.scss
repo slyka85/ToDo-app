@@ -32,3 +32,26 @@ body {
 .jumbotron {
    background: rgba(250,250,250, 0.5); 
 }
+
+.taskDiv {
+  background-color: rgba(250, 250, 250, 0.3);
+}
+.panel-info > .panel-heading {
+  background-color: rgb(194, 194, 214)
+}
+
+a {
+    color: white;
+}
+.arrowRight {
+  background-color: rgba(204, 0, 102, 1);
+}
+.arrowRight:hover {
+  background-color: rgb(255, 25, 117);
+}
+.arrowLeft {
+  background-color: rgba(204, 0, 102, 1);
+}
+.arrowLeft:hover {
+  background-color: rgb(255, 25, 117);
+}
